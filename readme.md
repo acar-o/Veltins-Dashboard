@@ -4,7 +4,11 @@ This project is about developing a web-based dashboard used to create all the st
 
 ## Development Environment and Libraries
 
-Visual Studio Code was used as a development environment. PHP was used to communicate with the existing MySQL database. JavaScript was used for front-end logic.
+Visual Studio Code was used as a development environment. 
+
+PHP was used to communicate with the existing MySQL database. 
+
+JavaScript was used for front-end logic.
 
 HTML, CSS, Bootstrap were used for the basic structure and styling of the dashboard, and Chart.js for statistics and graphics.
 
