@@ -8,11 +8,6 @@ include "./gd/src/Country.php";
 include "./gd/src/File/Format.php";
 include "./gd/src/File/Reader.php";
 
-
-// public $server = "localhost";
-// public $user = "veltins_us5634";
-// public $pass = "Jtr10s9^"; 
-
 class Connect
 {
   public $server = "localhost";
