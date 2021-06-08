@@ -21,7 +21,7 @@ Participants' postal codes were present in the data structure, but state informa
 Communication between JavaScript file and PHP and JSON files is established by AJAX queries.
 
 ## Result
-The project has been successfully implemented and submitted.
+The project has been successfully implemented, documented and submitted. Click [here](https://github.com/acar-o/Veltins-Dashboard/blob/master/Documentation/Projektbericht.pdf) to see the documentation. 
 
 ## Screenshot for the Dashboard
 ![screenshot](https://github.com/acar-o/Veltins-Dashboard/blob/master/images/sreenshot.png)
