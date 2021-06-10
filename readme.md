@@ -1,6 +1,6 @@
 ## Project Description
 
-This project is about developing a web-based dashboard used to create all the statistics and calculations of a competition and present them with graphics.
+This project is about developing a web-based dashboard used to create all the statistics and evaluation of Veltins competition and present them with graphics.
 
 ## Development Environment and Libraries
 
